@@ -28,6 +28,7 @@ impl Package {
             }
         }
     }
+}
 
     fn is_international(&self) -> ??? {
         // Something goes here...
