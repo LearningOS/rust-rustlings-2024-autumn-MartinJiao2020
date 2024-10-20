@@ -2,8 +2,8 @@
 	heap
 	This question requires you to implement a binary heap function
 */
-// I AM NOT DONE
-/* */
+
+/*
 use std::cmp::Ord;
 use std::default::Default;
 
@@ -151,4 +151,4 @@ mod tests {
         heap.add(1);
         assert_eq!(heap.next(), Some(2));
     }
-}
+}*/
